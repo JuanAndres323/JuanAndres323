@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Andrés</h1>
 <h3 align="center">Power Apps developer in Office 365, I am from Colombia, I also have knowledge in Microsoft Sharepoint in data storage, basic knowledge in Microsoft Power Automate.</h3>
 
-- 🌱 I’m currently learning **JavaScript, RPA With UiPath**
+- 🌱 I’m currently learning **Power Platform**
 - 👨‍💻 All of my projects are available at [https://www.behance.net/JuanHDevelopment](https://www.behance.net/JuanHDevelopment)
 - 📫 How to reach me **juan.developapps@gmail.com**
 
